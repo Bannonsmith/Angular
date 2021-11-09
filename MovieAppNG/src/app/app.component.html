@@ -8,8 +8,16 @@
         <li routerLink="about">About</li>
         <li routerLink="contact">Contact Us</li>
         <li routerLink="movies">Movies</li>
+        <li routerLink="login" style="background-color: lightgreen" *ngIf="!getUser()" >Login</li>
+        <li *ngIf="getUser()" (click)="logout()" style="background-color: red;">Logout</li>
+        <span *ngIf="getUser()">Hello, {{getUsername()}}</span>
 
+    
     </ul>
+
+    <div id="spacer">
+
+    </div>
 
 <router-outlet></router-outlet>
 </div>
