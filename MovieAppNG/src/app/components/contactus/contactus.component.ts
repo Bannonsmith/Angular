@@ -12,4 +12,8 @@ export class ContactusComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  phone: string = "000-867-5309";
+  email: string = "movieapp@email.com";
+  address: string = "1234 Hey lane";
+
 }
