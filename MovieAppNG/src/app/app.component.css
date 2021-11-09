@@ -1,3 +1,27 @@
 div {
     text-align: center;
 }
+
+#navList {
+    list-style-type: none;
+
+}
+
+#navList li {
+    display: inline;
+    margin: 5px;
+    background-color: rgb(230,230,230);
+    padding: 5px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px rgb(0,0,100);
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(25,25,25);
+
+}
+
+a {
+    text-decoration: none;
+
+}
