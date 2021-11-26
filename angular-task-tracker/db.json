@@ -5,6 +5,12 @@
       "day": "May 7th",
       "reminder": false,
       "id": 1
+    },
+    {
+      "text": "sdfasdf",
+      "day": "sadfasdf",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
