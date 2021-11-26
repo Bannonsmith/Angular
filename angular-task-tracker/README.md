@@ -33,13 +33,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Showing All Functionality
 
-![showing off about me](https://user-images.githubusercontent.com/47526741/143623991-ad866535-73e7-451d-8b5c-75ff2ceda4d3.gif)
-
-
-### About Me
 
 ![showing off all features](https://user-images.githubusercontent.com/47526741/143624047-10fed16c-5a24-4584-9d46-76b0d9793265.gif)
 
+### About Me
+
+
+![showing off about me](https://user-images.githubusercontent.com/47526741/143623991-ad866535-73e7-451d-8b5c-75ff2ceda4d3.gif)
 
 
 
