@@ -45,10 +45,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Getting Started
 
-git clone the project
+Git clone the project
+
 Then run ng serve in the terminal
+
 Go to localhost:42000 on the web browswer to make sure it running
+
 Open a second terminal and do start the json server
+
 Go to localhost:5000 on the web browswer to see if its running
 
 ## Contributors
