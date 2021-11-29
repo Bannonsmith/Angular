@@ -2,14 +2,14 @@
   "tasks": [
     {
       "text": "Go to the store",
-      "day": "May 7th",
+      "day": "May 7th @ 4p.m.",
       "reminder": false,
       "id": 1
     },
     {
-      "text": "sdfasdf",
-      "day": "sadfasdf",
-      "reminder": false,
+      "text": "Pick up the kids",
+      "day": "May 7th @3pm",
+      "reminder": true,
       "id": 2
     }
   ]
